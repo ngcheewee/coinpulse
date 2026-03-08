@@ -1,6 +1,6 @@
 'use server';
 
-import qs from 'query-string';
+import qs from 'query-string'
 
 const BASE_URL = process.env.COINGECKO_BASE_URL;
 const API_KEY = process.env.COINGECKO_API_KEY;
